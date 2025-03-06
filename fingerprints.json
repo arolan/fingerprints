@@ -1,10 +1,10 @@
 {
-  "fingerprints": [
-    {
-      "name": "*.sofi.com",
-      "fingerprint": "hP2WCo07wmENljQjy1Noy3xHf/11W+//61davWFVsS0=",
-      "expires": 1767109350,
-      "signature": "MEUCIQC60bGWuf5/ncpIVP6jYMSGDx1oLeDCJATx6Epe8AVPbQIgZ75k9cTrqg2N/vYXAVr8g8YQHBq5IYOhP6WNCai8NxE="
-    }
-  ]
+    "fingerprints": [
+        {
+            "name": "*.sofi.com",
+            "fingerprint": "hP2WCo07wmENljQjy1Noy3xHf/11W+//61davWFVsS0=",
+            "expires": 1767109350,
+            "signature": "MEUCIQDufzLV/+gTuxUcB4QtWMwl/uU3i3TRyfi7eElcQCPXDgIgYCGDTEoCvFIir1y9YZGddc23P7Gs+/lYrm31dIJtSVY="
+        }
+    ]
 }
